@@ -1,5 +1,5 @@
 import cv2 as cv
-img=cv.imread('/Users/Development/OpenCV/Ana de armas/images (1).jpeg')
+img=cv.imread('/Users/Development/OpenCV/Ana de armas/gettyimages-850026184-612x612.jpg')
 cv.imshow('Person',img)
 cv.waitKey(0)
 
