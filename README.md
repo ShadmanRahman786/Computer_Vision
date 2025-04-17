@@ -14,16 +14,16 @@ face-detection/
 
 <img width="1077" alt="face_detection" src="https://github.com/user-attachments/assets/7d533c52-3816-4bfe-aa9e-0a592beefcfe" />
 
-##Features
-	•	Face detection using OpenCV Haar Cascade Classifier
-	•	Clean and modular code for easy experimentation
+## Features
+•Face detection using OpenCV Haar Cascade Classifier
+•Clean and modular code for easy experimentation
 
 
-##Technologies Used
-	•	Python 🐍
-	•	OpenCV (cv2)
-	•	NumPy
-	•	Matplotlib (for visualizations)
+## Technologies Used
+•Python 
+•OpenCV (cv2)
+•NumPy
+•Matplotlib (for visualizations)
 
  
  
