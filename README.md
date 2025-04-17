@@ -2,7 +2,7 @@
 
 This repository documents my learning journey in the field of computer vision, focusing on face detection. The project begins with classical approaches using OpenCV’s built-in models (such as Haar Cascades) and gradually transitions to more advanced techniques involving deep learning-based face detection.
 
-##Project Structure
+## Project Structure
 face-detection/
 ├── haar_cascade/             # Face detection using OpenCV built-in model
 ├── deep_learning_model/      # Face detection using deep learning (CNN, DNN, etc.)
