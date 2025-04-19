@@ -64,7 +64,7 @@ After learning CNNs, I implemented a model using Simpson’s dataset from Kaggle
 •	Visualizations of model performance and outputs.
 
 
-##Technologies Used
+## Technologies Used
 
 •	Python: Programming language used for the implementation.
 •	OpenCV (cv2): For classical face detection using Haar Cascades.
@@ -72,7 +72,7 @@ After learning CNNs, I implemented a model using Simpson’s dataset from Kaggle
 •	NumPy: For numerical operations and array manipulation.
 •	Matplotlib: For generating visualizations and graphs.
 
-##Installation
+## Installation
 
 To get started with the project, follow these steps:
 
