@@ -10,13 +10,21 @@ In this project, I dive into face detection techniques and experiment with both 
 
 The project is structured into the following categories:
 face-detection/
-├── haar_cascade/             # Face detection using OpenCV built-in model
-├── deep_learning_model/      # Face detection using deep learning (CNN, DNN, etc.)
-├── utils/                    # Helper scripts for image processing, loading, etc.
-├── results/                  # Sample outputs and visuals
-├── requirements.txt
-└── README.md
-
+├── haar_cascade/                 # Classical face detection using Haar Cascades
+│   ├── haar_face_detect.py      # Detection script
+│   └── haar_config.xml          # Haar cascade XML file
+├── deep_learning_model/         # Deep learning-based face detection
+│   ├── cnn_model.py             # CNN implementation
+│   ├── dataset/                 # Dataset used for training/testing
+│   └── model_results/           # Saved model or results
+├── utils/                       # Utility scripts
+│   └── image_processing.py      # Preprocessing, resizing, etc.
+├── results/                     # Outputs and demo visuals
+│   ├── result1.png
+│   ├── result2.png
+│   └── accuracy_plot.png
+├── requirements.txt             # Dependencies
+└── README.md                    # Project documentation
 
 ## Project Highlights
 
