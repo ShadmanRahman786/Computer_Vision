@@ -37,8 +37,11 @@ After learning CNNs, I implemented a model using Simpson’s dataset from Kaggle
 * Achieved an initial accuracy of 50%, with potential for improvement through model fine-tuning.
 
 <img width="1077" alt="face_detection" src="https://github.com/user-attachments/assets/7d533c52-3816-4bfe-aa9e-0a592beefcfe" />
+
  ![Screenshot 2025-04-19 at 7 21 44 PM](https://github.com/user-attachments/assets/2f84b54f-1e50-459f-8ad9-6f69a584b5c9)
+ 
  ![Screenshot 2025-04-19 at 7 22 16 PM](https://github.com/user-attachments/assets/5c16f36f-7b33-4772-b44e-ca2dfc171e87)
+ 
  ![Screenshot 2025-04-19 at 7 22 35 PM](https://github.com/user-attachments/assets/39918c32-0ddd-4ed4-8691-d53096ac063a)
 
 
