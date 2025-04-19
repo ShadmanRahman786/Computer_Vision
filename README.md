@@ -34,7 +34,7 @@ face-detection/
 
 ## Technologies Used
 •Python 
-•OpenCV (cv2)
+•OpenCV (cv2), CNN
 •NumPy
 •Matplotlib (for visualizations)
 
