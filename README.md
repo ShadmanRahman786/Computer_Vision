@@ -29,13 +29,13 @@ face-detection/
 ## Project Highlights
 
 This project covers the key aspects of face detection using different approaches:
-1. ** Face Detection with Haar Cascade (Classical)
+1. ** Face Detection with Haar Cascade (Classical) **
    
  In this section, face detection is implemented using OpenCV’s pre-trained Haar Cascade classifier. This classical method is ideal for quick face detection tasks but has limitations when dealing with complex scenarios or varying face angles.
 
-2. **  Deep Learning-Based Face Detection                                                                     This part uses Convolutional Neural Networks (CNNs) for face detection, offering better accuracy and robustness than traditional methods. The CNN model is trained on large datasets, enabling it to generalize well for real-world applications.
+2. **  Deep Learning-Based Face Detection **                                                                   This part uses Convolutional Neural Networks (CNNs) for face detection, offering better accuracy and robustness than traditional methods. The CNN model is trained on large datasets, enabling it to generalize well for real-world applications.
 
-3. ** Simulated CNN Application
+3. ** Simulated CNN Application **
    
 After learning CNNs, I implemented a model using Simpson’s dataset from Kaggle, aiming to enhance my understanding of feature extraction through kernels and layers in CNNs.
 
