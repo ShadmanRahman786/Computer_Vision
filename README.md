@@ -78,7 +78,7 @@ After learning CNNs, I implemented a model using Simpson’s dataset from Kaggle
 
 To get started with the project, follow these steps:
 
-1. Clone the repository: git clone https://github.com/ShadmanRahman786/Face-Detection.git
+1. Clone the repository: git clone gh repo clone ShadmanRahman786/Computer_Vision
 2. Install the required dependencies: pip install -r requirements.txt
 3. Run the project:
    * To test face detection with Haar Cascade, navigate to the haar_cascade directory.
